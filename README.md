@@ -9,3 +9,6 @@ https://github.com/enja-oss
 
 RESTful Web Services より良いWebインタフェースの構築と分散型システム連携(豆蔵)
 http://labo.mamezou.com/special/sp_013/
+
+HTML5Rocks の日本語記事まとめ
+http://googledevjp.blogspot.jp/2014/10/html5rocks.html
