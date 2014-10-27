@@ -18,3 +18,6 @@ http://wazanova.jp/items/1588
 
 BDDフレームワーク「Cucumber」
 http://www.atmarkit.co.jp/ait/subtop/testtools/
+
+Spec.js
+https://github.com/uupaa/Spec.js/blob/master/lib/Spec.js#L564
