@@ -1,0 +1,5 @@
+## Iot
+
+### デバイスとITの架け橋
+* http://blogs.msdn.com/b/hirosho/
+* http://blogs.msdn.com/b/hirosho/archive/2014/10/14/iotkithol_5f00_intro.aspx
